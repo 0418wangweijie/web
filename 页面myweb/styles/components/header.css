@@ -1,0 +1,32 @@
+.header {
+  background-color: #ffffff;
+  padding: 0.4rem;
+  overflow: hidden;
+  height: 3.8rem;
+  border-bottom: 1px solid #cccccc;
+}
+.header-logo {
+  color: #1e90ff;
+  font-size: 1.4rem;
+  text-align: left;
+}
+.header-input input {
+  /* border-radius: 40px; */
+}
+.header-button {
+  position: absolute;
+  right: 0;
+  display: flex;
+  top: -16px;
+}
+.ant-menu {
+  line-height: 2.6rem;
+}
+.ant-menu-item {
+  font-size: 1rem !important;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+.ant-row {
+  /* justify-content: space-between; */
+}

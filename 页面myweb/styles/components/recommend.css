@@ -1,0 +1,12 @@
+.recommend-title {
+  font-weight: bolder;
+  text-align: center;
+  margin-top: 20px;
+}
+.findnew-image {
+  /* background-image: url(https://m.360buyimg.com/mobilecms/s1125x1230_jfs/t1/131722/1/19212/311493/5fcf40c4E4d1a8b3d/2fac1c5d011db1a6.jpg!q70.jpg); */
+  width: 100%;
+}
+.findnew-cardImage {
+  width: 100%;
+}

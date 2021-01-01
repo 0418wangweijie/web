@@ -1,0 +1,87 @@
+.center {
+  width: 50%;
+  padding: 0 30px;
+  margin: 0 auto;
+}
+
+.title_div {
+  font-size: 20px;
+  font-weight: bold;
+}
+.title_litter_div {
+  color: red;
+  font-size: 12px;
+}
+
+.red_header_div {
+  display: flex;
+  background: red;
+  height: 30px;
+  justify-content: space-between;
+  padding: 0 10px;
+  align-items: center;
+}
+.img_yu_shou {
+  display: flex;
+  align-items: center;
+}
+.display {
+  display: flex;
+  align-items: center;
+}
+.ding_jing_all {
+  display: flex;
+  margin-bottom: 10px;
+}
+.img_yu_shou_div img {
+  width: 15px;
+  height: 15px;
+  margin-top: 6px;
+}
+.nao_zhong_icon img {
+  width: 15px;
+  height: 15px;
+  margin-top: 6px;
+}
+.dao_ji_shi_div {
+  display: flex;
+  align-items: center;
+}
+
+.price_div {
+  background-color: #f7f7f7;
+  padding: 10px;
+}
+
+/* 增值业务 */
+.zeng_zhi_ye_wu_div {
+  padding: 10px;
+  border-bottom: 1px solid #f7f7f7;
+}
+
+.yan_se_xing_hao {
+  margin-top: 20px;
+  border-bottom: 1px solid #f7f7f7;
+}
+
+.ding_jin {
+  height: 38px;
+  padding: 5px;
+  text-align: center;
+  background-color: #f7f7f7;
+  margin-left: 10px;
+  border: 1px solid #666;
+  margin-right: 10px;
+}
+
+.xiao_mi_div {
+  display: flex;
+}
+
+.left {
+  width: 25%;
+}
+
+.right {
+  width: 25%;
+}
